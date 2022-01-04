@@ -10,6 +10,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;padding-left: 5%;
@@ -26,4 +27,14 @@ section{
 }
 body{
     margin: 0%;
+}
+.middle-bennar{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+} 
+.for-padding{
+    padding-right: 25%;
+}
+
 
