@@ -33,8 +33,28 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 } 
-.for-padding{
-    padding-right: 25%;
+.orange-color{
+    color: orange;
 }
 
+.pad{
+    width: 10%;margin-right: 5%;
+}
 
+.last-flex{
+    display: flex;
+}
+.ex-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    
+}
+.experience{
+    box-shadow: 10px 10px 30px gray;
+    width: 60%;
+    margin-left: -5%;
+    margin-right: 10%;
+    padding-left: 30px;
+    border-radius: 10px;
+}
