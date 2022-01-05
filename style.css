@@ -58,3 +58,17 @@ body{
     padding-left: 30px;
     border-radius: 10px;
 }
+#no-two{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, #4d9f0c) 30;
+    border-image-slice: 1;
+}
+#no-one{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato) 30;
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
